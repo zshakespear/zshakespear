@@ -5,8 +5,8 @@
 - Conlanging
 - Astronomy
 - 🌱 I’m currently learning ...
-- Discrete Mathematics
-- Ancient philosophy
+- Python Software Design
+- American Civics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - zshakespear@gmail.com
